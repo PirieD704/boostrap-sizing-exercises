@@ -1,0 +1,42 @@
+
+
+.container {
+	font-size: 16px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.row {
+	margin: 10px auto;
+}
+
+.header-text {
+	text-align: left;
+	vertical-align: bottom;
+}
+
+
+.light-box {
+	background-color: #b3e7f9;
+}
+
+.medium-colored-box {
+	background-color: #67c5fc;
+}
+
+.dark-box {
+	background-color: #0e78c9;
+}
+
+.one-time {
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+
+#only-one {
+	margin-top: 0px;
+}
+
+.third-row {
+	margin-bottom: 0px;
+}
